@@ -1,0 +1,9 @@
+p    {
+      font-family:courier New,
+      monaco, helvetica;
+      font-size:x-large;
+     }
+.audioCenter{margin: 10px auto; width: 320px;}
+.audio-Center{margin: 10px auto; width: 320px;}
+th{background-color: blue; color: purple;}
+th,td{border: 4px solid purple; text-align: center; padding: 5px;}
